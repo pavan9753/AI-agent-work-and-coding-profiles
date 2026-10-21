@@ -1,2 +1,7 @@
 # AI-agent-work-and-coding-profiles
-This repo contain the agent development work &amp; day to day work done at my current company - Lowe's India
+
+This repository contains agent development work and day-to-day coding profiles.
+
+## Projects
+
+- [Google ADK Demo ATM Agent](./atm_agent/README.md) — a local Python and SQLite ATM assistant built with Google's Agent Development Kit.
