@@ -13,7 +13,7 @@ npm run dev
 
 ## Build and deploy to GitHub Pages
 
-Run these commands from this `portfolio/` directory. The Vite base path and `homepage` are configured for the parent repository. Publish the `dist` directory to the `gh-pages` branch with:
+Run these commands from `frontend_react/portfolio/`. The Vite base path and `homepage` are configured for this repository's GitHub Pages site. Publish the generated `dist` directory to the `gh-pages` branch with:
 
 ```bash
 npm run build
@@ -24,9 +24,9 @@ In the repository's **Settings → Pages**, select **Deploy from a branch**, the
 
 ## Repository contents
 
-- `src/` — React portfolio and responsive visual system
-- `public/Pavan_R_SWE2.pdf` — downloadable résumé copy served by the site
-- `public/Certificates/` — certificate copies shown on the site
+- `portfolio/src/` — React portfolio and responsive visual system
+- `portfolio/public/Pavan_R_SWE2.pdf` — downloadable résumé copy served by the site
+- `portfolio/public/Certificates/` — certificate copies shown on the site
 - `../Pavan_R_SWE2.pdf` and `../Certificates/` — original profile documents
 - `../ATM_AI_AGENT/` — Google ADK ATM agent project and documentation
 - `../Coding_profiles` and `../Linkedin_Profile` — original profile references

@@ -5,6 +5,8 @@ My software engineering work, AI agent projects, coding profiles, and career hig
 ## Portfolio
 [Visit my portfolio website](https://pavan9753.github.io/AI-agent-work-and-coding-profiles/)
 
+Portfolio source and local setup instructions: [frontend_react/README.md](./frontend_react/README.md).
+
 
 ## Projects and profile materials
 
