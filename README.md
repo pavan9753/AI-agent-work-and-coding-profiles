@@ -2,7 +2,7 @@
 
 Personal portfolio for my work across software engineering, distributed systems, and agentic AI.
 
-**Live site:** [pavan9753.github.io/AI-agent-work-and-coding-profiles](https://pavan9753.github.io/AI-agent-work-and-coding-profiles/)
+**GitHub Pages URL:** [pavan9753.github.io/AI-agent-work-and-coding-profiles](https://pavan9753.github.io/AI-agent-work-and-coding-profiles/) (available after Pages is enabled for the `gh-pages` branch)
 
 ## Run locally
 
