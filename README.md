@@ -3,7 +3,7 @@
 My software engineering work, AI agent projects, coding profiles, and career highlights.
 
 ## Portfolio
-https://pavan9753.github.io/AI-agent-work-and-coding-profiles/
+[Visit my portfolio website](https://pavan9753.github.io/AI-agent-work-and-coding-profiles/)
 
 
 ## Projects and profile materials
@@ -12,5 +12,6 @@ https://pavan9753.github.io/AI-agent-work-and-coding-profiles/
 - [AI Agent work videos](./AI_Agent_Work_Lowes_Current_Company/) — demos, a code walkthrough, and proof-of-work documentation.
 - [Résumé](./Pavan_R_SWE2.pdf)
 - [Certificates](./Certificates/)
-- Coding profile links: [`Coding_profiles`](./Coding_profiles)
-- [LinkedIn](https://www.linkedin.com/in/ramagiri-pavan-4210341bb/)
+- [Coding profiles and achievements](./Coding_profiles.md)
+- [LinkedIn profile](./Linkedin_Profile.md)
+- [Personal portfolio link](./PERSONAL_PORTFOLIO.md)
