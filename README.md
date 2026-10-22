@@ -3,16 +3,8 @@
 My software engineering work, AI agent projects, coding profiles, and career highlights.
 
 ## Portfolio
+https://pavan9753.github.io/AI-agent-work-and-coding-profiles/
 
-The React + Vite portfolio is maintained in [`portfolio/`](./portfolio/README.md) and published at [pavan9753.github.io/AI-agent-work-and-coding-profiles](https://pavan9753.github.io/AI-agent-work-and-coding-profiles/).
-
-To run it locally:
-
-```bash
-cd portfolio
-npm install
-npm run dev
-```
 
 ## Projects and profile materials
 
