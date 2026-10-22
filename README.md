@@ -1,9 +1,31 @@
-# AI-agent-work-and-coding-profiles
+# Pavan Ramagiri — Portfolio
 
-This repository contains agent development work and day-to-day coding profiles.
+Personal portfolio for my work across software engineering, distributed systems, and agentic AI.
 
-Also the AI agent work which I am doing at Lowe's at day to day work and also attached coding profiles and problem solving skills
+**Live site:** [pavan9753.github.io/AI-agent-work-and-coding-profiles](https://pavan9753.github.io/AI-agent-work-and-coding-profiles/)
 
-## Projects
+## Run locally
 
-- [Google ADK Demo ATM Agent](./ATM_AI_AGENT/atm_agent/README.md) — a local Python and SQLite ATM assistant built with Google's Agent Development Kit.
+```bash
+npm install
+npm run dev
+```
+
+## Build and deploy to GitHub Pages
+
+The Vite base path and `homepage` are configured for this repository. Publish the `dist` directory to the `gh-pages` branch with:
+
+```bash
+npm run build
+npm run deploy
+```
+
+In the repository's **Settings → Pages**, select **Deploy from a branch**, then choose `gh-pages` and `/(root)`.
+
+## Repository contents
+
+- `src/` — React portfolio and responsive visual system
+- `Pavan_R_SWE2.pdf` — downloadable résumé
+- `Certificates/` — award certificates shown on the site
+- `ATM_AI_AGENT/` — Google ADK ATM agent project and documentation
+- `Coding_profiles` and `Linkedin_Profile` — original profile references
