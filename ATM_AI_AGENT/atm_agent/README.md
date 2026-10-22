@@ -2,7 +2,6 @@
 
 A small conversational ATM agent built with Python and Google's Agent Development Kit (ADK). It demonstrates tool calling, per-session sign-in state, parameter validation, SQLite persistence, and transaction recording.
 
-> **Demo only.** This project simulates fictional INR accounts in a local SQLite database. It is not connected to a bank, does not accept real cash, and is not suitable for real financial use. The demo PIN is entered into the agent conversation; never use real banking credentials or personal financial data with it.
 
 ## Features
 
@@ -72,6 +71,3 @@ atm_agent/
   banking.py        # SQLite operations and validation
 ```
 
-## Notes
-
-This is an educational sample, not a production ATM design. A production service needs a trusted authentication surface outside the LLM conversation, strong identity and authorization controls, audit and fraud monitoring, secure secret handling, operational safeguards, and integration with regulated banking infrastructure.
