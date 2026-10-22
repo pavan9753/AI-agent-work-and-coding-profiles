@@ -6,4 +6,4 @@ Also the AI agent work which I am doing at Lowe's at day to day work and also at
 
 ## Projects
 
-- [Google ADK Demo ATM Agent](./atm_agent/README.md) — a local Python and SQLite ATM assistant built with Google's Agent Development Kit.
+- [Google ADK Demo ATM Agent](./ATM_AI_AGENT/atm_agent/README.md) — a local Python and SQLite ATM assistant built with Google's Agent Development Kit.

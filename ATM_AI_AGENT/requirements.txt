@@ -1,2 +1,2 @@
-google-adk>=1.0.0
+google-adk[mcp]>=1.14.0
 python-dotenv>=1.0.0

@@ -3,7 +3,10 @@ name = "google-adk-demo-atm"
 version = "0.1.0"
 description = "A local SQLite-backed demo ATM agent built with Google ADK"
 requires-python = ">=3.10"
-dependencies = ["google-adk>=1.0.0", "python-dotenv>=1.0.0"]
+dependencies = ["google-adk[mcp]>=1.14.0", "python-dotenv>=1.0.0"]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
 
 [tool.setuptools.packages.find]
 include = ["atm_agent*"]
