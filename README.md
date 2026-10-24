@@ -11,6 +11,7 @@ Portfolio source and local setup instructions: [frontend_react/README.md](./fron
 ## Projects and profile materials
 
 - [Google ADK Demo ATM Agent](./ATM_AI_AGENT/atm_agent/README.md) — a Python and SQLite ATM assistant with safety checks and an MCP reference-rate integration.
+- [ML & Data Science Projects](./ML_DataScience_projects.md) — notebooks, datasets, and a new ML + LLM application.
 - [AI Agent work videos](./AI_Agent_Work_Lowes_Current_Company/) — demos, a code walkthrough, and proof-of-work documentation.
 - [Résumé](./Pavan_R_SWE2.pdf)
 - [Certificates](./Certificates/)

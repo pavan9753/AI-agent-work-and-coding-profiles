@@ -1,0 +1,49 @@
+subject,message,category
+Charged twice for one order,"I see two card charges for order 4812 but only placed the order once. Can you check the duplicate payment?",billing
+Refund not on statement,"The return was approved last week and I still cannot see the refund on my card statement.",billing
+Unexpected monthly fee,"There is a monthly service fee on my invoice that I do not recognize. Please explain the charge.",billing
+Invoice amount looks wrong,"My receipt total is higher than the items in my cart and I need help understanding the difference.",billing
+Payment was declined,"My bank says the payment went through but the checkout page says declined. I may have been charged.",billing
+Tax added twice,"The invoice appears to include sales tax two times. Could someone review the calculation?",billing
+Need a copy of invoice,"I need another copy of the invoice for my purchase from last month.",billing
+Promo not applied to total,"The welcome discount is missing from the final charge even though it appeared before I paid.",billing
+Package has not arrived,"The tracking page has shown in transit for six days and the delivery date has passed.",delivery
+Order sent to old address,"I noticed the shipping label has my previous address. Can the parcel still be redirected?",delivery
+Only part of order delivered,"One box arrived but two items from the same order are still missing.",delivery
+Tracking link is blank,"The carrier tracking link opens an empty page and I cannot tell where my parcel is.",delivery
+Package marked delivered but missing,"Tracking says delivered this morning but there is no parcel at my door or reception.",delivery
+Delivery date keeps moving,"The estimated delivery date has changed three times and I need a reliable update.",delivery
+Wrong shipping method,"I paid for express shipping but the order page now shows standard delivery.",delivery
+Pickup order not ready,"The store notification says my pickup is ready but staff cannot locate the order.",delivery
+Return label needed,"The item does not fit and I need instructions for sending it back.",returns
+Exchange for another size,"I would like to exchange this jacket for the next size up. The item is unused.",returns
+Return window question,"I missed the return window by one day. Can you tell me what options are available?",returns
+Return request rejected,"My return was declined but the product page says this item can be returned.",returns
+Cancel before dispatch,"I placed the wrong color in my order and want to cancel before it ships.",returns
+Received refund as store credit,"I asked for a refund to my original payment method but received store credit instead.",returns
+Replacement for damaged item,"The lamp arrived cracked and I would prefer a replacement rather than a refund.",returns
+Need to change an order,"I selected the wrong item and need help changing the order before fulfillment.",returns
+Product arrived broken,"The blender jar is cracked out of the box and the motor makes a grinding noise.",product_quality
+Missing parts in the box,"My desk kit arrived without the screws and assembly brackets listed in the package.",product_quality
+Color does not match listing,"The delivered rug looks very different from the product photos and the color description.",product_quality
+Item stops working,"The headphones worked for one day and now will not turn on even after charging.",product_quality
+Packaging damaged the item,"The chair was loose in the box and one of the legs is scratched and bent.",product_quality
+Wrong model received,"I ordered the stainless model but received the black version with a different part number.",product_quality
+Poor material quality,"The fabric started tearing along the seam after only two gentle uses.",product_quality
+Food container leaks,"The lid does not seal and liquid leaks from the container when it is upright.",product_quality
+Cannot reset password,"The password reset email never arrives even after checking spam and requesting it again.",account_access
+Locked out of account,"Too many login attempts locked my account and the unlock link gives an error.",account_access
+Email address changed,"I no longer have access to the email on my account and need to update it.",account_access
+Two factor code not accepted,"The verification code arrives but the sign-in page says it is expired immediately.",account_access
+Account profile disappeared,"My saved addresses and preferences are missing after I signed back in.",account_access
+Duplicate customer accounts,"I seem to have two profiles and want to know how to combine their order history.",account_access
+Cannot verify new email,"I clicked the confirmation link but my account still says the email is unverified.",account_access
+Sign in with social account fails,"The Google sign-in button returns me to the login page without opening my account.",account_access
+App crashes when opening cart,"The mobile app closes whenever I tap the cart icon after the latest update.",technical_issue
+Search returns no results,"Product search stays blank even for items I can find by browsing categories.",technical_issue
+Checkout button does nothing,"I can fill out the checkout form but the place order button is not responding.",technical_issue
+Website page loads slowly,"Pages take over thirty seconds to load and images appear one at a time.",technical_issue
+Cannot upload receipt,"The help form rejects my receipt image even though it is a small PNG file.",technical_issue
+Browser error on payment page,"The payment page shows a server error in two browsers and I cannot continue.",technical_issue
+Notifications arrive late,"Order status notifications are arriving hours after the status changes in my account.",technical_issue
+Mobile menu will not open,"The navigation menu button highlights but no menu appears on my phone.",technical_issue
