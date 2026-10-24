@@ -10,3 +10,5 @@ This folder contains the source notebooks and data for the three linked projects
 | [Support Ticket Intelligence](./Support_Ticket_Intelligence/) | TF-IDF + logistic regression triage, evaluation, Streamlit interface, and OpenAI Responses API summaries | [README](./Support_Ticket_Intelligence/README.md) |
 
 The first three projects were copied from their linked GitHub repositories on 2026-10-24. Original links are preserved in each project's README. The notebooks and data are included here so they can be reviewed and run without opening a separate repository.
+
+For the Java + React full-stack sample and Google ADK code review agent, see the [recent projects index](../README.md#recent-runnable-projects).
