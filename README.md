@@ -19,7 +19,7 @@ This repository is a working portfolio of software engineering projects, applied
 - [React portfolio source and local setup](./frontend_react/README.md)
 - [AI Agent work videos and walkthroughs](./AI_Agent_Work_Lowes_Current_Company/)
 - [Backend Java project links and notes](./Backend_Java.md)
-- [React project links and notes](./Frontend_react.md)
+- [React project links and notes](./Live_Deployed_Websites.md)
 
 ## Career materials
 
