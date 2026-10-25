@@ -8,7 +8,7 @@ This repository is a working portfolio of software engineering projects, applied
 
 | Project | What it demonstrates | Start here |
 | --- | --- | --- |
-| **Stockroom — Full-Stack Inventory** | React dashboard, Java 21, Spring Boot REST API, JPA, validation, H2, and a layered service design | [Project README](./FullStack_Inventory_Platform/README.md) |
+| **Stockroom — Full-Stack Inventory** | React dashboard, Java 21, Spring Boot REST API, JPA, validation, H2, and a layered service design | [Project README](./frontend_react/FullStack_Inventory_Platform/README.md) |
 | **Engineering Review Agent** | Google ADK + Gemini, a deterministic Python diff scanner, tool use, prompt-injection resistance, and human-reviewed recommendations | [Project README](./Engineering_Review_Agent/README.md) |
 | **ATM Demo Agent** | Google ADK, SQLite, session-scoped authentication, transaction guardrails, and a read-only MCP rate lookup | [Project README](./ATM_AI_AGENT/atm_agent/README.md) |
 | **Support Ticket Intelligence** | TF-IDF classification, evaluation, Streamlit, and optional LLM-assisted triage | [Project README](./ML_DataScience_projects/Support_Ticket_Intelligence/README.md) |

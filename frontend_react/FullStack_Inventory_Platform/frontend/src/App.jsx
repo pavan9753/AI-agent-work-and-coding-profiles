@@ -106,7 +106,7 @@ function App() {
       <button className="workspace-switch"><span className="workspace-avatar">N</span><span className="workspace-text"><strong>Northstar Supply</strong><small>Free workspace</small></span><ChevronDown size={15} /></button>
       <div className="nav-caption">OVERVIEW</div>
       <nav className="main-nav"><a className="nav-link active" href="#inventory"><LayoutDashboard size={17} /><span>Inventory</span><span className="nav-pill">01</span></a><a className="nav-link" href="#inventory" onClick={() => setStockFilter('low')}><AlertTriangle size={17} /><span>Low stock</span>{dashboard?.lowStockCount > 0 && <span className="nav-count">{dashboard.lowStockCount}</span>}</a><a className="nav-link" href="#activity"><Activity size={17} /><span>Activity log</span><span className="soon">SOON</span></a></nav>
-      <div className="sidebar-bottom"><div className="help-card"><div className="help-icon"><CircleHelp size={17} /></div><strong>Need a hand?</strong><p>Explore the API-backed inventory demo and its project notes.</p><a href="https://github.com/pavan9753/AI-agent-work-and-coding-profiles/tree/main/FullStack_Inventory_Platform" target="_blank" rel="noreferrer">View project <ArrowUpRight size={13} /></a></div><button className="profile-button"><span className="profile-avatar">PR</span><span className="profile-info"><strong>Pavan R</strong><small>Developer</small></span><Settings2 size={16} /></button></div>
+      <div className="sidebar-bottom"><div className="help-card"><div className="help-icon"><CircleHelp size={17} /></div><strong>Need a hand?</strong><p>Explore the API-backed inventory demo and its project notes.</p><a href="https://github.com/pavan9753/AI-agent-work-and-coding-profiles/tree/main/frontend_react/FullStack_Inventory_Platform" target="_blank" rel="noreferrer">View project <ArrowUpRight size={13} /></a></div><button className="profile-button"><span className="profile-avatar">PR</span><span className="profile-info"><strong>Pavan R</strong><small>Developer</small></span><Settings2 size={16} /></button></div>
     </aside>
 
     <main className="main-content" id="top">
@@ -133,7 +133,7 @@ function App() {
           <div className="table-footer"><span>Showing <strong>{visibleItems.length}</strong> of <strong>{items.length}</strong> matching products</span><span className="updated-indicator"><span></span> Synced just now</span></div>
         </section>
 
-        <footer className="page-footer"><span>Stockroom <span className="footer-dot">·</span> Inventory operations demo</span><span><span className="footer-build">SPRING BOOT + REACT</span><a href="https://github.com/pavan9753/AI-agent-work-and-coding-profiles/tree/main/FullStack_Inventory_Platform" target="_blank" rel="noreferrer">Source code <ArrowUpRight size={12} /></a></span></footer>
+        <footer className="page-footer"><span>Stockroom <span className="footer-dot">·</span> Inventory operations demo</span><span><span className="footer-build">SPRING BOOT + REACT</span><a href="https://github.com/pavan9753/AI-agent-work-and-coding-profiles/tree/main/frontend_react/FullStack_Inventory_Platform" target="_blank" rel="noreferrer">Source code <ArrowUpRight size={12} /></a></span></footer>
       </div>
     </main>
 

@@ -28,7 +28,7 @@ Prerequisites: Java 21, Maven 3.6.3+, and Node.js 18+ with npm.
 In a terminal:
 
 ```powershell
-cd FullStack_Inventory_Platform/backend
+cd frontend_react/FullStack_Inventory_Platform/backend
 mvn spring-boot:run
 ```
 
@@ -39,14 +39,14 @@ The REST API is at `http://localhost:8080`. The in-memory database is seeded wit
 Open another terminal at the repository root:
 
 ```powershell
-cd FullStack_Inventory_Platform/frontend
+cd frontend_react/FullStack_Inventory_Platform/frontend
 npm install
 npm run dev
 ```
 
 Open the local URL printed by Vite (normally `http://localhost:5173`). Keep the API process running. To point the UI at a different API, create `frontend/.env.local` with `VITE_API_URL=http://localhost:8080/api`.
 
-For macOS or Linux, the same commands work with `cd FullStack_Inventory_Platform/backend` and `cd FullStack_Inventory_Platform/frontend` in two terminals.
+For macOS or Linux, the same commands work with `cd frontend_react/FullStack_Inventory_Platform/backend` and `cd frontend_react/FullStack_Inventory_Platform/frontend` in two terminals.
 
 ## API overview
 
@@ -82,4 +82,4 @@ Example request:
 
 ## Source
 
-[Project folder in this repository](https://github.com/pavan9753/AI-agent-work-and-coding-profiles/tree/main/FullStack_Inventory_Platform)
+[Project folder in this repository](https://github.com/pavan9753/AI-agent-work-and-coding-profiles/tree/main/frontend_react/FullStack_Inventory_Platform)

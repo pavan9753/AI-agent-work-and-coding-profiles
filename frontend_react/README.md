@@ -24,6 +24,8 @@ In the repository's **Settings → Pages**, select **Deploy from a branch**, the
 
 ## Repository contents
 
+- `FullStack_Inventory_Platform/` — React inventory dashboard and Java/Spring Boot API; see its [project README](./FullStack_Inventory_Platform/README.md) for setup
+
 - `portfolio/src/` — React portfolio and responsive visual system
 - `portfolio/public/Pavan_R_SWE2.pdf` — downloadable résumé copy served by the site
 - `portfolio/public/Certificates/` — certificate copies shown on the site
